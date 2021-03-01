@@ -1,9 +1,8 @@
 package main
 
-import (
-	"berorev/leetcode/twosum"
-)
+import "berorev/leetcode/addtwonumbers"
 
 func main() {
-	twosum.Solve()
+	// twosum.Solve()
+	addtwonumbers.Solve()
 }

@@ -34,6 +34,7 @@ func Solve() {
 	}
 
 	// solve
+	fmt.Println("-- Two Sum")
 	for i, example := range examples {
 		fmt.Printf("Example #%d : ", i+1)
 
